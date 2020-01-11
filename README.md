@@ -1,1 +1,10 @@
- **HowdyHoBOT**  ![](https://discordapp.com/assets/20d185289ca0178b8dd30d7605f6dc72.svg)
+### HowdyHoBOT
+ ![](https://discordapp.com/assets/20d185289ca0178b8dd30d7605f6dc72.svg)
+
+В файле **`сonfig.py`** все настройки 
+1. role_limit = 5
+		Количество ролей у пользователя(Программа считает только роли который можно получить нажавши на смайлик)
+2. emoji_roles = ['Python', 'Java', 'C++', 'C#', 'PHP', 'JavaScript', '1C', 'Kotlin', 'Swift'] 
+		Список ролей который пользователь может получить
+3. special_messages_id = [665594034823102475] 
+		Список сообщений под которыми бот будет считывать смайлики
